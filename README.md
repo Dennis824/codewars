@@ -1,0 +1,2 @@
+# codewars
+kata from codewars
